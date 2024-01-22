@@ -2,4 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="calc_text">#333333</color>
+
+    <color name="calc_bg">#292929</color>
+    <color name="calc_input_bg">#C5D69E</color>
+
+    <color name="calc_big_num_bg">#5F6466</color>
+    <color name="calc_small_num_bg">#FDFDFD</color>
+
+    <color name="calc_operations_bg">#E2E2E2</color>
+
+    <color name="calc_accent_bg">#B13635</color>
+    <color name="calc_result_bg">#FC6501</color>
+    <color name="calc_plus_btn_bg">#7B6A62</color>
 </resources>
